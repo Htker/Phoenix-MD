@@ -19,7 +19,7 @@
     "SUDO": {
       "description": "Enter Numbers With Country Code Without + Separated With , To Add More Numbers",
       "required": false,
-      "value": "919074692450"
+      "value": "+22879652652"
     },
     "SPAM_COUNT": {
       "description": "Enter Number Of Times To Send Spam Message Using .spam Command",
@@ -29,7 +29,7 @@
     "STICKER_DATA": {
       "description": "Enter Your Sticker PackName And Author Name",
       "required": false,
-      "value": "🎯𝙿𝚑𝚘𝚎𝚗𝚒𝚡-𝙼𝙳;𝙰𝚋𝚑𝚒𝚜𝚑𝚎𝚔 𝚂𝚞𝚛𝚎𝚜𝚑☘️"
+      "value": "🎯Eve-𝙼𝙳;Eve Ht☘️"
     },
     "AUDIO_DATA": {
       "description": "Enter Your Audio Data",
@@ -37,19 +37,19 @@
       "value": "Phoenix-MD;Abhishek Suresh;https://graph.org/file/8976892f2f615077b48cd.jpg"
     },
     "OWNER_NAME": {
-      "description": "Enter Your Owner Name",
+      "description": "Enter Your Owner name",
       "required": false,
-      "value": "Abhishek Suresh"
+      "value": "Eve Ht"
     },
     "OWNER_NUMBER": {
       "description": "Enter Your Owner Number",
       "required": false,
-      "value": "919074692450"
+      "value": "+22879652652"
     },
     "BOT_NAME": {
       "description": "Enter Your Bot Name",
       "required": false,
-      "value": "Phoenix-MD"
+      "value": "EveHt-Wbot"
     },
     "MODE": {
       "description": "Enter Your Mode Type public For Public Otherwise Type private",
